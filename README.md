@@ -21,8 +21,7 @@
    <td>
      <ul><li> <a href="https://github.com/roctbb/pydat21/blob/master/lesson_1">Папка 11.09</a></li>
     <li> <a href="https://github.com/roctbb/pydat21/blob/main/lesson_1/tasks.ipynb">Задачи</a></li></ul>
-     
-    </td>
+
   <td><ul>
     <li><a href="https://nbviewer.jupyter.org/github/roctbb/pydat21/blob/main/Homework/hw1.ipynb">Тренировочное ДЗ1</a></li>
     <li><a href="https://nbviewer.jupyter.org/github/roctbb/pydat21/blob/main/Homework/hw2.ipynb">Тренировочное ДЗ2</a></li>
