@@ -1,9 +1,9 @@
 # 01-04
 
-* [Работа с Jupyter, Markdown](https://nbviewer.jupyter.org/github/roctbb/pydat21/blob/master/lesson_1/intro-jupyter.ipynb).
-* [Переменные, базовые типы данных, арифметические операции](https://nbviewer.jupyter.org/github/roctbb/pydat21/blob/master/lesson_1/intro-variables.ipynb).
-* [Ввод и вывод](https://nbviewer.jupyter.org/github/roctbb/pydat21/blob/master/lesson_1/input-output.ipynb).
-* [Введение в работу со строками](https://nbviewer.jupyter.org/github/roctbb/pydat21/blob/master/lesson_1/strings.ipynb).
+* [Работа с Jupyter, Markdown](https://nbviewer.jupyter.org/github/roctbb/pydat21/blob/main/lesson_1/intro-jupyter.ipynb).
+* [Переменные, базовые типы данных, арифметические операции](https://nbviewer.jupyter.org/github/roctbb/pydat21/blob/main/lesson_1/intro-variables.ipynb).
+* [Ввод и вывод](https://nbviewer.jupyter.org/github/roctbb/pydat21/blob/main/lesson_1/input-output.ipynb).
+* [Введение в работу со строками](https://nbviewer.jupyter.org/github/roctbb/pydat21/blob/main/lesson_1/strings.ipynb).
 
 
 **Дополнительно**
