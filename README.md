@@ -23,8 +23,8 @@
     <li> <a href="https://github.com/roctbb/pydat21/blob/main/lesson_1/tasks.ipynb">Задачи</a></li></ul>
 
   <td><ul>
-    <li><a href="https://nbviewer.jupyter.org/github/roctbb/pydat21/blob/main/Homework/hw1.ipynb">Тренировочное ДЗ1</a></li>
-    <li><a href="https://nbviewer.jupyter.org/github/roctbb/pydat21/blob/main/Homework/hw2.ipynb">Тренировочное ДЗ2</a></li>
+    <li><a href="https://github.com/roctbb/pydat21/blob/main/Homework/hw1.ipynb">Тренировочное ДЗ1</a></li>
+    <li><a href="https://github.com/roctbb/pydat21/blob/main/Homework/hw2.ipynb">Тренировочное ДЗ2</a></li>
     </ul></td>
 </tr>
 </table>
