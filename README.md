@@ -44,7 +44,7 @@
   <td>08.04</td>
   <td>Понятие управляющих конструкций. Условные оператор.</td>
    <td>
-     <ul><li> <a href="https://github.com/roctbb/pydat21/blob/master/lesson_2">Все материалы</a></li>
+     <ul><li> <a href="https://github.com/roctbb/pydat21/blob/master/lesson_3">Все материалы</a></li>
        <li> <a href="https://github.com/roctbb/pydat21/blob/main/lesson_3/2020_DPO_2_0_Problems.ipynb">Задачи на занятие</a></li>
      </ul>
 
