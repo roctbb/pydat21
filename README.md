@@ -50,4 +50,15 @@
 
   <td></td>
 </tr>
+<tr>
+  <td>10.04</td>
+  <td>Циклы.</td>
+   <td>
+     <ul><li> <a href="https://github.com/roctbb/pydat21/blob/master/lesson_4">Все материалы</a></li>
+       <li> <a href="https://github.com/roctbb/pydat21/blob/main/lesson_4/2020_DPO_3_0_Problems.ipynb">Задачи 1</a></li>
+       <li> <a href="https://github.com/roctbb/pydat21/blob/main/lesson_4/2020_DPO_4_2_for_exercises.ipynb">Задачи 2</a></li>
+     </ul>
+
+  <td></td>
+</tr>
 </table>
