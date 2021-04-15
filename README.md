@@ -61,4 +61,28 @@
 
   <td></td>
 </tr>
+<tr>
+  <td>10.04</td>
+  <td>Словари и функции.</td>
+   <td>
+     <ul><li> <a href="https://github.com/roctbb/pydat21/blob/master/lesson_5">Все материалы</a></li>
+       <li> <a href="https://github.com/roctbb/pydat21/blob/main/lesson_5/hw4.ipynb">Задачи</a></li>
+     </ul></td>
+
+  <td>
+<ul>
+    <li><a href="https://github.com/roctbb/pydat21/blob/main/Homework/cw1.ipynb">Контролькное ДЗ1</a></li>
+  <li><a href="https://www.dropbox.com/request/HtDDGvJvDC0QBy8pBrYp">СДАТЬ ДЗ1 (до 22.04 23:59)</a></li>
+    </ul>
+</td>
+</tr>
 </table>
+
+### Что почитать?
+
+- Марк Лутц, Изучаем Python, 4-е издание
+
+### Что порешать?
+
+- pythontutor.ru
+- https://projecteuler.net/archives
