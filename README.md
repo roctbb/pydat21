@@ -63,7 +63,7 @@
 </tr>
 <tr>
   <td>10.04</td>
-  <td>Циклы.</td>
+  <td>Словари и функции.</td>
    <td>
      <ul><li> <a href="https://github.com/roctbb/pydat21/blob/master/lesson_5">Все материалы</a></li>
        <li> <a href="https://github.com/roctbb/pydat21/blob/main/lesson_5/hw4.ipynb">Задачи</a></li>
