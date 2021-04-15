@@ -71,7 +71,7 @@
 
   <td>
 <ul>
-    <li><a href="https://github.com/roctbb/pydat21/blob/main/Homework/hw1.ipynb">Контролькное ДЗ1</a></li>
+    <li><a href="https://github.com/roctbb/pydat21/blob/main/Homework/cw1.ipynb">Контролькное ДЗ1</a></li>
   <li><a href="https://www.dropbox.com/request/HtDDGvJvDC0QBy8pBrYp">СДАТЬ ДЗ1 (до 22.04 23:59)</a></li>
     </ul>
 </td>
