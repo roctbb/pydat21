@@ -77,3 +77,12 @@
 </td>
 </tr>
 </table>
+
+### Что почитать?
+
+- Марк Лутц, Изучаем Python, 4-е издание
+
+### Что порешать?
+
+- pythontutor.ru
+- https://projecteuler.net/archives
