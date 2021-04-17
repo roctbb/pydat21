@@ -84,7 +84,10 @@
      </ul></td>
 
   <td>
-  <ul><li><a href="https://github.com/roctbb/pydat21/blob/main/lesson_6/tasks.md">Задачи</a></li></ul>
+  <ul><li><a href="https://github.com/roctbb/pydat21/blob/main/lesson_6/tasks.md">Задачи на повторение</a></li>
+    <li><a href="https://github.com/roctbb/pydat21/blob/main/lesson_6/py19-hw6.ipynb">Задачи</a></li>
+  </ul>
+  
 </td>
 </tr>
 </table>
