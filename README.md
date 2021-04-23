@@ -90,6 +90,19 @@
   
 </td>
 </tr>
+<tr>
+  <td>22.04</td>
+  <td>Рекурсия.</td>
+   <td>
+     <ul><li> <a href="https://github.com/roctbb/pydat21/blob/master/lesson_7">Все материалы</a></li>
+     </ul></td>
+
+  <td>
+  <ul><li><a href="https://github.com/roctbb/pydat21/blob/main/lesson_7/refresher.md">Задачи на повторение</a></li>
+  </ul>
+  
+</td>
+</tr>
 </table>
 
 ### Что почитать?
