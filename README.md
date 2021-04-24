@@ -107,13 +107,16 @@
   <td>24.04</td>
   <td>Генераторы и файлы.</td>
    <td>
-     <ul><li> <a href="https://github.com/roctbb/pydat21/blob/master/lesson_8">Все материалы</a></li>
+     <ul>
+       <li><li><a href="https://projecteuler.net/problem=15">Задача на рекурсию</a></li></li>
+       <li><a href="https://github.com/roctbb/pydat21/blob/main/lesson_8/tasks.md">Задачи</a></li>
+       <li> <a href="https://github.com/roctbb/pydat21/blob/master/lesson_8">Все материалы</a></li>
      </ul></td>
 
   <td>
-  <ul><li><a href="https://github.com/roctbb/pydat21/blob/main/lesson_7/tasks.md">Задачи</a></li>
+  <ul>
      <li><a href="https://github.com/roctbb/pydat21/blob/main/Homework/cw2/">Контролькное ДЗ2</a></li>
-  <li><a href="https://www.dropbox.com/request/G6wBoRWEeqYydZms7FFK">СДАТЬ ДЗ2 (до 01.05 23:59)</a></li>
+  <li><a href="https://www.dropbox.com/request/G6wBoRWEeqYydZms7FFK">СДАТЬ ДЗ2 (до 11.05 23:59)</a></li>
   </ul>
   
 </td>
