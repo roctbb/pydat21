@@ -126,6 +126,7 @@
   <td>Краулинг с помощью BeautifulSoup.</td>
   <td><ul>
        <li> <a href="https://github.com/roctbb/pydat21/blob/master/lesson_8">Все материалы</a></li>
+    <li><a href="https://github.com/roctbb/pydat21/blob/main/lesson_9/page.html">Пример html</a></li>
      </ul></td><td></td>
 </tr>
 </table>
