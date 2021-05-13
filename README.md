@@ -125,9 +125,26 @@
    <td>29.04</td>
   <td>Краулинг с помощью BeautifulSoup.</td>
   <td><ul>
-       <li> <a href="https://github.com/roctbb/pydat21/blob/master/lesson_9">Все материалы</a></li>
+       <li> <a href="https://github.com/roctbb/pydat21/blob/main/lesson_9">Все материалы</a></li>
     <li><a href="https://github.com/roctbb/pydat21/blob/main/lesson_9/page.html">Пример html</a></li>
      </ul></td><td></td>
+</tr>
+<tr>
+  <td>13.05</td>
+  <td>Selenium, API, Excel.</td>
+   <td>
+     <ul>
+       <li><a href="https://github.com/roctbb/pydat21/blob/main/lesson_10/vk.ipynb">VK</a></li>
+       <li> <a href="https://github.com/roctbb/pydat21/blob/main/lesson_10">Все материалы</a></li>
+     </ul></td>
+
+  <td>
+  <ul>
+     <li><a href="https://github.com/roctbb/pydat21/blob/main/Homework/cw3/">Контролькное ДЗ3</a></li>
+  <li><a href="https://www.dropbox.com/request/nlSxkFRqkU9HPSfJcsiw">СДАТЬ ДЗ3 (до 20.05 23:59)</a></li>
+  </ul>
+  
+</td>
 </tr>
 </table>
 
