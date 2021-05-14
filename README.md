@@ -146,6 +146,18 @@
   
 </td>
 </tr>
+<tr>
+  <td>15.05</td>
+  <td>ООП.</td>
+   <td>
+     <ul>
+       <li><a href="https://github.com/roctbb/pydat21/blob/main/lesson_11/tasks.md">Задачи</a></li>
+       <li> <a href="https://github.com/roctbb/pydat21/blob/master/lesson_11">Все материалы</a></li>
+     </ul></td>
+
+  <td>
+</td>
+</tr>
 </table>
 
 ### Что почитать?
