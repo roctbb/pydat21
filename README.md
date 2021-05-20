@@ -158,6 +158,24 @@
   <td>
 </td>
 </tr>
+<tr>
+  <td>20.05</td>
+  <td>Telegram боты.</td>
+   <td>
+     <ul>
+       <li><a href="https://geekclass.ru/open/steps/2221">Материал на GeekClass</a></li>
+       <li> <a href="https://github.com/roctbb/pydat21/blob/master/lesson_12">Все материалы</a></li>
+     </ul>
+  </td>
+
+  <td>
+     <ul>
+       <li><a href="https://github.com/roctbb/pydat21/blob/main/Homework/project_task.md">Проект</a></li>
+       <li> <a href="https://www.dropbox.com/request/JaEAX1fsYJS4oWGarf9y">Сдать проект (до 27.05 23:59)</a></li>
+     </ul>
+    
+</td>
+</tr>
 </table>
 
 ### Что почитать?
