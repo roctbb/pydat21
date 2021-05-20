@@ -20,6 +20,6 @@
 - 1 балл: бот выложен на сервер (Heroku, PythonAnyWhere, любой VDS);
 
 **Материалы**
-- Про создание ботов - https://geekclass.ru/open/steps/2227
+- Про создание ботов - https://geekclass.ru/open/steps/2221
 - Как выложить на Heroku? https://devcenter.heroku.com/articles/getting-started-with-python
 - Как выложить на VPS (например, RuVDS)? https://geekclass.ru/open/steps/1976 
