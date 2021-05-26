@@ -171,7 +171,7 @@
   <td>
      <ul>
        <li><a href="https://github.com/roctbb/pydat21/blob/main/Homework/project_task.md">Проект</a></li>
-       <li> <a href="https://www.dropbox.com/request/JaEAX1fsYJS4oWGarf9y">Сдать проект (до 27.05 23:59)</a></li>
+       <li> <a href="https://www.dropbox.com/request/JaEAX1fsYJS4oWGarf9y">Сдать проект (до 31.05 23:59)</a></li>
      </ul>
     
 </td>
