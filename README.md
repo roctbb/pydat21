@@ -189,7 +189,7 @@
 
   <td>
      <ul>
-       <li><a href="">Контрольное ДЗ4</a></li>
+       <li><a href="https://github.com/roctbb/pydat21/blob/main/Homework/cw4.ipynb">Контрольное ДЗ4</a></li>
        <li> <a href="https://www.dropbox.com/request/gnxkUT0kkdD6JkJ2xdpR">Сдать ДЗ4 (до 03.06 23:59)</a></li>
      </ul>
     
@@ -197,6 +197,7 @@
 </tr>
 </table>
 
+**Если тетрадки не хотят открывать - используйте https://nbviewer.jupyter.org/**
 
 
 ### Что почитать?
