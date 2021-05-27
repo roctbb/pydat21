@@ -176,7 +176,28 @@
     
 </td>
 </tr>
+
+<tr>
+  <td>27.05</td>
+  <td>Numpy и векторные вычисления.</td>
+   <td>
+     <ul>
+       <li><a href="http://bit.ly/2u5q430">Шпаргалка</a></li>
+       <li> <a href="https://github.com/roctbb/pydat21/blob/master/lesson_13">Все материалы</a></li>
+     </ul>
+  </td>
+
+  <td>
+     <ul>
+       <li><a href="">Контрольное ДЗ4</a></li>
+       <li> <a href="https://www.dropbox.com/request/gnxkUT0kkdD6JkJ2xdpR">Сдать ДЗ4 (до 03.06 23:59)</a></li>
+     </ul>
+    
+</td>
+</tr>
 </table>
+
+
 
 ### Что почитать?
 
