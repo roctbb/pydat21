@@ -201,8 +201,8 @@
    <td>
      <ul>
        <li><a href="https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf">Шпаргалка</a></li>
-       <li> <a href="https://github.com/roctbb/pydat21/blob/master/lesson_14">https://github.com/roctbb/pydat21/blob/main/lesson_14/titanic_tasks.ipynb</a></li>
-       <li> <a href="https://github.com/roctbb/pydat21/blob/master/lesson_14">https://github.com/roctbb/pydat21/blob/main/lesson_14/beauty_tasks.ipynb</a></li>
+       <li> <a href="https://github.com/roctbb/pydat21/blob/main/lesson_14/titanic_tasks.ipynb">Практика 1 - Титаник</a></li>
+       <li> <a href="https://github.com/roctbb/pydat21/blob/main/lesson_14/beauty_tasks.ipynb">Практика 2</a></li>
        <li> <a href="https://github.com/roctbb/pydat21/blob/master/lesson_14">Все материалы</a></li>
      </ul>
   </td>
