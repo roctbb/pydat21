@@ -203,11 +203,26 @@
        <li><a href="https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf">Шпаргалка</a></li>
        <li> <a href="https://github.com/roctbb/pydat21/blob/main/lesson_14/titanic_tasks.ipynb">Практика 1 - Титаник</a></li>
        <li> <a href="https://github.com/roctbb/pydat21/blob/main/lesson_14/beauty_tasks.ipynb">Практика 2</a></li>
-       <li> <a href="https://github.com/roctbb/pydat21/blob/master/lesson_14">Все материалы</a></li>
+       <li> <a href="https://github.com/roctbb/pydat21/blob/main/lesson_14">Все материалы</a></li>
      </ul>
   </td>
 
   <td>
+</td>
+</tr>
+<tr>
+  <td>10.06</td>
+  <td>Pandas 2.</td>
+   <td>
+     <ul>
+       <li> <a href="https://github.com/roctbb/pydat21/blob/main/lesson_15">Все материалы</a></li>
+     </ul>
+  </td>
+  <td>
+    <ul>
+       <li><a href="https://github.com/roctbb/pydat21/blob/main/Homework/cw5.ipynb">Контрольное ДЗ5</a></li>
+       <li> <a href="https://www.dropbox.com/request/IG7r57rlkl5e91fEIcC8">Сдать ДЗ5 (до 17.06 23:59)</a></li>
+     </ul>
 </td>
 </tr>
 </table>
