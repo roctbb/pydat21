@@ -236,7 +236,7 @@
   <td>
     <ul>
        <li><a href="https://github.com/roctbb/pydat21/blob/main/Homework/cw6.ipynb">Контрольное ДЗ6</a></li>
-       <li> <a href="https://www.dropbox.com/request/dTFQMXKQjYiFq8rDD583">Сдать ДЗ5 (до 24.06 23:59)</a></li>
+       <li> <a href="https://www.dropbox.com/request/dTFQMXKQjYiFq8rDD583">Сдать ДЗ6 (до 24.06 23:59)</a></li>
      </ul>
 </td>
 </tr>
