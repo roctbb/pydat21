@@ -225,6 +225,21 @@
      </ul>
 </td>
 </tr>
+<tr>
+  <td>17.06</td>
+  <td>Matplotlib & plotly.</td>
+   <td>
+     <ul>
+       <li> <a href="https://github.com/roctbb/pydat21/blob/main/lesson_16">Все материалы</a></li>
+     </ul>
+  </td>
+  <td>
+    <ul>
+       <li><a href="https://github.com/roctbb/pydat21/blob/main/Homework/cw6.ipynb">Контрольное ДЗ6</a></li>
+       <li> <a href="https://www.dropbox.com/request/dTFQMXKQjYiFq8rDD583">Сдать ДЗ5 (до 24.06 23:59)</a></li>
+     </ul>
+</td>
+</tr>
 </table>
 
 **Если тетрадки не хотят открывать - используйте https://nbviewer.jupyter.org/**
